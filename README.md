@@ -1,1 +1,1 @@
-# DataReduction
+# DataReduction - proof of concept
